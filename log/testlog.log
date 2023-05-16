@@ -1,0 +1,212 @@
+2023-04-27 16:02:12,234 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:02:14,602 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:02:30,029 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:02:30,456 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:02:30,471 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:02:30,639 - FD_FrameWork -INFO - user name entered
+2023-04-27 16:02:30,740 - FD_FrameWork -INFO - password entered
+2023-04-27 16:02:37,817 - FD_FrameWork -INFO - login button is clicked
+2023-04-27 16:02:37,818 - FD_FrameWork -INFO - user logged in
+2023-04-27 16:02:44,928 - FD_FrameWork -INFO - logout button is clicked
+2023-04-27 16:02:44,929 - FD_FrameWork -INFO - user logged out
+2023-04-27 16:03:13,246 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:06:28,821 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:06:32,143 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:06:40,689 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:06:41,207 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:06:41,231 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:06:41,481 - FD_FrameWork -INFO - user name entered
+2023-04-27 16:06:41,704 - FD_FrameWork -INFO - password entered
+2023-04-27 16:06:48,857 - FD_FrameWork -INFO - login button is clicked
+2023-04-27 16:06:48,858 - FD_FrameWork -INFO - user logged in
+2023-04-27 16:06:55,967 - FD_FrameWork -INFO - logout button is clicked
+2023-04-27 16:06:55,970 - FD_FrameWork -INFO - user logged out
+2023-04-27 16:06:57,171 - FD_FrameWork -INFO - browser refreshed
+2023-04-27 16:07:08,457 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:08:37,551 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:08:41,187 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:08:59,062 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:08:59,519 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:08:59,532 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:09:01,891 - FD_FrameWork -INFO - user name entered
+2023-04-27 16:09:02,026 - FD_FrameWork -INFO - password entered
+2023-04-27 16:09:09,126 - FD_FrameWork -INFO - login button is clicked
+2023-04-27 16:09:09,127 - FD_FrameWork -INFO - user logged in
+2023-04-27 16:09:16,268 - FD_FrameWork -INFO - logout button is clicked
+2023-04-27 16:09:16,272 - FD_FrameWork -INFO - user logged out
+2023-04-27 16:09:18,120 - FD_FrameWork -INFO - browser refreshed
+2023-04-27 16:09:18,174 - FD_FrameWork -INFO - Login
+2023-04-27 16:09:18,178 - FD_FrameWork -INFO - logout functionality validated successfully
+2023-04-27 16:09:19,007 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:09:46,378 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:09:49,504 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:09:59,354 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:09:59,821 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:09:59,835 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:10:00,057 - FD_FrameWork -INFO - user name entered
+2023-04-27 16:10:00,289 - FD_FrameWork -INFO - password entered
+2023-04-27 16:10:07,409 - FD_FrameWork -INFO - login button is clicked
+2023-04-27 16:10:07,411 - FD_FrameWork -INFO - user logged in
+2023-04-27 16:10:14,524 - FD_FrameWork -INFO - logout button is clicked
+2023-04-27 16:10:14,525 - FD_FrameWork -INFO - user logged out
+2023-04-27 16:10:14,599 - FD_FrameWork -INFO - logout functionality validated successfully
+2023-04-27 16:10:15,334 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:10:52,382 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:10:55,602 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:11:03,660 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:11:04,097 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:11:04,108 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:11:09,374 - FD_FrameWork -INFO - new_user button clicked
+2023-04-27 16:11:09,621 - FD_FrameWork -INFO - user first name entered
+2023-04-27 16:11:09,796 - FD_FrameWork -INFO - user last name entered
+2023-04-27 16:11:10,002 - FD_FrameWork -INFO - user login name entered
+2023-04-27 16:11:10,269 - FD_FrameWork -INFO - user password entered
+2023-04-27 16:11:21,344 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:14:02,331 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:14:05,474 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:14:17,077 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:14:17,547 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:14:17,558 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:14:22,791 - FD_FrameWork -INFO - new_user button clicked
+2023-04-27 16:14:22,945 - FD_FrameWork -INFO - user first name entered
+2023-04-27 16:14:23,088 - FD_FrameWork -INFO - user last name entered
+2023-04-27 16:14:23,226 - FD_FrameWork -INFO - user login name entered
+2023-04-27 16:14:23,368 - FD_FrameWork -INFO - user password entered
+2023-04-27 16:14:23,403 - FD_FrameWork -INFO - entered into frame
+2023-04-27 16:14:26,510 - FD_FrameWork -INFO - captcha clicked
+2023-04-27 16:14:28,820 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:17:23,550 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:17:26,607 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:17:40,966 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:17:41,483 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:17:41,492 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:17:49,136 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:18:30,875 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:18:33,900 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:18:41,255 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:18:41,830 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:18:41,846 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:18:54,422 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:21:52,677 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:21:55,757 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:22:05,524 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:22:05,935 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:22:05,943 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:22:17,512 - FD_FrameWork -INFO - new_user button clicked
+2023-04-27 16:22:17,682 - FD_FrameWork -INFO - user first name entered
+2023-04-27 16:22:17,831 - FD_FrameWork -INFO - user last name entered
+2023-04-27 16:22:17,990 - FD_FrameWork -INFO - user login name entered
+2023-04-27 16:22:18,365 - FD_FrameWork -INFO - user password entered
+2023-04-27 16:22:18,407 - FD_FrameWork -INFO - entered into frame
+2023-04-27 16:22:31,406 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:23:18,528 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:23:21,661 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:23:29,737 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:23:30,156 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:23:30,164 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:23:41,316 - FD_FrameWork -INFO - new_user button clicked
+2023-04-27 16:23:41,476 - FD_FrameWork -INFO - user first name entered
+2023-04-27 16:23:41,632 - FD_FrameWork -INFO - user last name entered
+2023-04-27 16:23:41,806 - FD_FrameWork -INFO - user login name entered
+2023-04-27 16:23:41,984 - FD_FrameWork -INFO - user password entered
+2023-04-27 16:23:42,094 - FD_FrameWork -INFO - entered into frame
+2023-04-27 16:24:04,200 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:26:03,849 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:26:06,668 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:26:13,705 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:26:13,854 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:26:13,861 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:26:25,782 - FD_FrameWork -INFO - new_user button clicked
+2023-04-27 16:26:25,931 - FD_FrameWork -INFO - user first name entered
+2023-04-27 16:26:26,121 - FD_FrameWork -INFO - user last name entered
+2023-04-27 16:26:26,326 - FD_FrameWork -INFO - user login name entered
+2023-04-27 16:26:26,723 - FD_FrameWork -INFO - user password entered
+2023-04-27 16:26:26,761 - FD_FrameWork -INFO - entered into frame
+2023-04-27 16:26:47,538 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:27:29,471 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:27:31,611 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:27:38,797 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:27:38,917 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:27:38,926 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:27:39,084 - FD_FrameWork -INFO - user name entered
+2023-04-27 16:27:39,195 - FD_FrameWork -INFO - password entered
+2023-04-27 16:27:46,288 - FD_FrameWork -INFO - login button is clicked
+2023-04-27 16:27:46,288 - FD_FrameWork -INFO - user logged in
+2023-04-27 16:27:47,395 - FD_FrameWork -INFO - login functionality validated successfully
+2023-04-27 16:28:19,304 - FD_FrameWork -INFO - driver closed
+2023-04-27 16:28:44,916 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-27 16:28:46,916 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-27 16:28:53,947 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-27 16:28:54,061 - FD_FrameWork -INFO - window maximized
+2023-04-27 16:28:54,066 - FD_FrameWork -INFO - implicity wait applied
+2023-04-27 16:28:54,238 - FD_FrameWork -INFO - user name entered
+2023-04-27 16:28:54,344 - FD_FrameWork -INFO - password entered
+2023-04-27 16:29:01,435 - FD_FrameWork -INFO - login button is clicked
+2023-04-27 16:29:01,437 - FD_FrameWork -INFO - user logged in
+2023-04-27 16:29:08,531 - FD_FrameWork -INFO - logout button is clicked
+2023-04-27 16:29:08,535 - FD_FrameWork -INFO - user logged out
+2023-04-27 16:29:08,569 - FD_FrameWork -INFO - logout functionality validated successfully
+2023-04-27 16:29:09,207 - FD_FrameWork -INFO - driver closed
+2023-04-30 13:42:27,911 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-30 13:43:00,998 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-30 13:43:06,449 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-30 13:43:06,628 - FD_FrameWork -INFO - window maximized
+2023-04-30 13:43:06,633 - FD_FrameWork -INFO - implicity wait applied
+2023-04-30 13:43:07,431 - FD_FrameWork -INFO - user name entered
+2023-04-30 13:43:07,698 - FD_FrameWork -INFO - password entered
+2023-04-30 13:43:14,822 - FD_FrameWork -INFO - login button is clicked
+2023-04-30 13:43:14,822 - FD_FrameWork -INFO - user logged in
+2023-04-30 13:43:21,939 - FD_FrameWork -INFO - logout button is clicked
+2023-04-30 13:43:21,942 - FD_FrameWork -INFO - user logged out
+2023-04-30 13:43:22,066 - FD_FrameWork -INFO - logout functionality validated successfully
+2023-04-30 13:43:24,936 - FD_FrameWork -INFO - driver closed
+2023-04-30 13:45:44,304 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-30 13:45:52,411 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-30 13:46:15,700 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-30 13:46:15,990 - FD_FrameWork -INFO - window maximized
+2023-04-30 13:46:16,007 - FD_FrameWork -INFO - implicity wait applied
+2023-04-30 13:46:16,223 - FD_FrameWork -INFO - user name entered
+2023-04-30 13:46:16,367 - FD_FrameWork -INFO - password entered
+2023-04-30 13:46:30,900 - FD_FrameWork -INFO - login button is clicked
+2023-04-30 13:46:30,901 - FD_FrameWork -INFO - user logged in
+2023-04-30 13:46:32,548 - FD_FrameWork -INFO - login functionality validated successfully
+2023-04-30 13:47:13,039 - FD_FrameWork -INFO - driver closed
+2023-04-30 14:16:07,260 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-30 14:16:11,556 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-30 14:16:20,598 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-30 19:10:54,559 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-30 19:10:56,597 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-30 19:11:03,957 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-30 19:11:04,080 - FD_FrameWork -INFO - window maximized
+2023-04-30 19:11:04,091 - FD_FrameWork -INFO - implicity wait applied
+2023-04-30 19:11:15,186 - FD_FrameWork -INFO - new_user button clicked
+2023-04-30 19:11:15,303 - FD_FrameWork -INFO - user first name entered
+2023-04-30 19:11:15,398 - FD_FrameWork -INFO - user last name entered
+2023-04-30 19:11:15,548 - FD_FrameWork -INFO - user login name entered
+2023-04-30 19:11:15,826 - FD_FrameWork -INFO - user password entered
+2023-04-30 19:11:15,841 - FD_FrameWork -INFO - entered into frame
+2023-04-30 19:11:36,780 - FD_FrameWork -INFO - driver closed
+2023-04-30 19:13:57,230 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-30 19:13:59,284 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-30 19:14:07,363 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-30 19:14:07,481 - FD_FrameWork -INFO - window maximized
+2023-04-30 19:14:07,486 - FD_FrameWork -INFO - implicity wait applied
+2023-04-30 19:14:17,837 - FD_FrameWork -INFO - new_user button clicked
+2023-04-30 19:14:18,049 - FD_FrameWork -INFO - user first name entered
+2023-04-30 19:14:18,241 - FD_FrameWork -INFO - user last name entered
+2023-04-30 19:14:18,668 - FD_FrameWork -INFO - user login name entered
+2023-04-30 19:14:18,816 - FD_FrameWork -INFO - user password entered
+2023-04-30 19:14:18,837 - FD_FrameWork -INFO - entered into frame
+2023-04-30 19:14:39,763 - FD_FrameWork -INFO - driver closed
+2023-04-30 19:15:50,966 - FD_FrameWork -INFO - Chrome Browser selected
+2023-04-30 19:15:52,992 - FD_FrameWork -INFO - Chrome driver opened
+2023-04-30 19:16:02,412 - FD_FrameWork -INFO - https://demoqa.com/login opened
+2023-04-30 19:16:02,578 - FD_FrameWork -INFO - window maximized
+2023-04-30 19:16:02,607 - FD_FrameWork -INFO - implicity wait applied
+2023-04-30 19:16:13,005 - FD_FrameWork -INFO - new_user button clicked
+2023-04-30 19:16:13,255 - FD_FrameWork -INFO - user first name entered
+2023-04-30 19:16:13,450 - FD_FrameWork -INFO - user last name entered
+2023-04-30 19:16:13,882 - FD_FrameWork -INFO - user login name entered
+2023-04-30 19:16:14,060 - FD_FrameWork -INFO - user password entered
+2023-04-30 19:16:14,088 - FD_FrameWork -INFO - entered into frame
+2023-04-30 19:16:35,183 - FD_FrameWork -INFO - driver closed
